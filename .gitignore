@@ -1,3 +1,5 @@
 **/*.ini
 *.ini
+/Robot\ Tarsus/
+/STL\ Files/Private/
 
